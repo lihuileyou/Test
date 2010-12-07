@@ -1,0 +1,1 @@
+puts "Hello, NO.2"
