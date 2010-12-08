@@ -1,1 +1,1 @@
-puts "Hello, AM!"
+puts "Hello, AM!" puts "AAAAA"
