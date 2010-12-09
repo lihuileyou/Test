@@ -1,3 +1,3 @@
 puts "Hello, NO.2"
 puts "Hello, NO.2" AAAAAVVVSSS
-puts "Hello, NO.2" SS
+puts "Hello, NO.2" SSTTT
